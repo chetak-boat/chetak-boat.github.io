@@ -2,7 +2,10 @@ title: Chetak
 author:
   name: Sandeep
   email: chetak.boat@gmail.com
-# description: Chetak - The boat !!
+description: >
+  Chetak the boat, was built in Downingtown,PA and it took 4 years over may weekends to build.
+  Named in the memory of my father's Bajaj Chetak 1988 model.
+
 plugins:
   - jekyll-relative-links # converts links to markdown files to their html counterparts
 relative_links:
