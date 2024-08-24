@@ -1,2 +1,4 @@
 title : Chetak
 theme: minima
+exclude:
+- README.md
