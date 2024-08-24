@@ -1,15 +1,11 @@
-title : Chetak
-theme: minima
-
+title: Chetak
+description: Chetak - The boat !
 plugins:
   - jekyll-relative-links # converts links to markdown files to their html counterparts
 relative_links:
   enabled: true
   collections: true
-  
 header_pages:
   - about.md
-  - contact.md
-
-exclude:
-- README.md
+  - contact.md  
+theme: minima
