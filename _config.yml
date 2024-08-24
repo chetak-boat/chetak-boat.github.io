@@ -11,10 +11,11 @@ relative_links:
 header_pages:
   - about.md
   - contact.md  
-theme: minima
+remote_theme: jekyll/minima
+# theme: minima
 
-minima:
-  skin: classic
+# minima:
+#   skin: classic
 
 
 
