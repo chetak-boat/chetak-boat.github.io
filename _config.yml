@@ -1,4 +1,4 @@
-# title: Chetak
+title: Chetak
 # description: Chetak - The boat !!
 plugins:
   - jekyll-relative-links # converts links to markdown files to their html counterparts
@@ -9,3 +9,7 @@ header_pages:
   - about.md
   - contact.md  
 theme: minima
+
+author:
+  name: Sandeep
+  email: chetak.boat@gmail.com
