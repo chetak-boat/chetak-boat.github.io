@@ -6,7 +6,10 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-
+  
+header_pages:
+  - about.md
+  - contact.md
 
 exclude:
 - README.md
