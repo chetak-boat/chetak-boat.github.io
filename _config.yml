@@ -8,6 +8,7 @@ description: >
 
 plugins:
   - jekyll-relative-links # converts links to markdown files to their html counterparts
+  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
