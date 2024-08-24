@@ -1,3 +1,2 @@
 title : Chetak
-theme: jekyll-theme-minima
-show_downloads: true
+remote_theme: jekyll/minima
