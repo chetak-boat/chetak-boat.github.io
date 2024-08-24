@@ -1,4 +1,12 @@
 title : Chetak
 theme: minima
+
+plugins:
+  - jekyll-relative-links # converts links to markdown files to their html counterparts
+relative_links:
+  enabled: true
+  collections: true
+
+
 exclude:
 - README.md
