@@ -1,5 +1,5 @@
-title: Chetak
-description: Chetak - The boat !!
+# title: Chetak
+# description: Chetak - The boat !!
 plugins:
   - jekyll-relative-links # converts links to markdown files to their html counterparts
 relative_links:
