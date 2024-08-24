@@ -16,6 +16,7 @@ header_pages:
   - about.md
   - contact.md  
 remote_theme: jekyll/minima
+rss: false
 # theme: minima
 
 # minima:
