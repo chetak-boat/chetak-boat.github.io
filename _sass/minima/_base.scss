@@ -5,3 +5,27 @@ main {
   justify-content: center;
   max-width: 1200 px;
 }
+
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+    .gallery-item   
+ {
+      width: 32%;
+      margin-bottom: 20px;
+    }
+
+    .gallery-item img {
+      width: 100%;
+      height: auto;
+      border: 1px solid #ccc;
+      cursor: pointer;
+      transition: transform 0.3s ease;
+    }
+
+    .gallery-item img:hover {
+      transform: scale(1.1);
+    }
